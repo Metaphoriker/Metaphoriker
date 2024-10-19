@@ -20,7 +20,7 @@
         </td>
         <td>
          <a href="http://randomizer-cs2.com/">
-          <img src="https://github.com/user-attachments/assets/00815850-1498-413c-97ca-bb2029ca61e3" width="500"/>
+          <img src="https://github.com/user-attachments/assets/2f198175-c4c2-4f78-b8f8-a32ad9b2807f" width="500"/>
          </a>
         </td>
       </tr>

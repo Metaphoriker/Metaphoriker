@@ -7,17 +7,11 @@
   <table>
     <thead>
       <tr>
-        <th><b>Active Codebases</b></th>
         <th><b>Randomizer for Counter-Strike 2</b></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>
-          <a href="https://star-history.com/#metaphoriker/randomizer-cs2&patheloper/pathetic&metaphoriker/gutil&metaphoriker/antiac&Date">
-            <img src="https://api.star-history.com/svg?repos=metaphoriker/randomizer-cs2,patheloper/pathetic,metaphoriker/gutil,metaphoriker/antiac&type=Date" width="500"/>
-          </a>
-        </td>
         <td>
          <a href="http://randomizer-cs2.com/">
           <img src="https://github.com/user-attachments/assets/2f198175-c4c2-4f78-b8f8-a32ad9b2807f" width="500"/>

@@ -3,6 +3,10 @@
 
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaphoriker&show_icons=true&theme=transparent)
+
+<br>
+
 <div align="center">
   <table>
     <thead>

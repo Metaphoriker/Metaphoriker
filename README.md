@@ -22,12 +22,3 @@
   </table>
 </div>
 
-<br>
-
-<a href="https://github.com/patheloper/pathetic">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=D7B500&repeat=false&width=435&lines=patheloper%2Fpathetic" alt="Typing SVG"/>
-</a>
-<br>
-<img src="https://img.shields.io/github/stars/patheloper/pathetic?style=for-the-badge&label=Stars&logo=github&color=b8860b" alt="GitHub stars"/>
-
-
